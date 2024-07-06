@@ -481,11 +481,11 @@ header .layer {
     transition: all 0.5s;
 }
 
-#contact .col-lg-4:hover .icon{
+#contact .col-md-4:hover .icon{
     background-color: var(--main-color);
 }
 
-#contact .col-lg-4:hover i {
+#contact .col-md-4:hover i {
     color: var(--secondary-color);
 }
 
